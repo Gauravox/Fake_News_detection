@@ -1,6 +1,6 @@
 ABSTRACT:
 
-• In this final year project, we're tackling the problem of fake news using computer smarts. 
+• In this project, we're tackling the problem of fake news using computer smarts. 
 We're creating a tool that learns to tell the difference between real and fake stories on the 
 internet. By teaching the computer about how real news looks and spotting tricky words, 
 we hope to build a strong system. 
